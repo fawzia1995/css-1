@@ -1,0 +1,12 @@
+.width{
+    background: blue;
+    width: 300px;
+}
+.m-width{
+    background: red;
+    min-width: 300px;
+}
+.s-width{
+    background: navy;
+    max-width: 300px;
+}

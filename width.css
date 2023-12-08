@@ -1,0 +1,12 @@
+h1{
+    background: red;
+    width:fit-content
+}
+h2{
+    background: red;
+    width: min-content;
+}
+h3{
+    background: red;
+    width:max-content
+}

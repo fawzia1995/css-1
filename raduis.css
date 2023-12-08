@@ -1,0 +1,41 @@
+.ro{
+    width: 300px;
+    height: 30px;
+    background: red;
+    border-radius: 20px;
+}
+.mo{
+    width: 300px;
+    height: 30px;
+    background: red;
+    border-radius: 20px 70px;
+}
+.bo{
+    width: 300px;
+    height: 30px;
+    background: red;
+    border-radius: 10px 70px 20px 60px;
+}
+.co{
+    width: 300px;
+    height: 30px;
+    background: red;
+    border-top-left-radius: 20px 70px;
+}
+.ko{
+    width: 300px;
+    height: 30px;
+    background: red;
+    border-start-start-radius: 20px ;
+}
+.bl{
+  
+        width: 55px;
+        height: 55px;
+        background: red;
+        border-radius:200px;
+        border-radius:50%
+      
+
+   
+}

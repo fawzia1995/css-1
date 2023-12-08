@@ -1,0 +1,16 @@
+section>strong{
+    color:black
+}
+div p strong{color:blue}
+div ul li{
+    font-size: 200px;
+}
+div li{color:bisque}
+
+.container .list #item1{color:blue}
+
+.container>.list>#item1{color:blue}
+.container .list #item2{color:blueviolet}
+
+
+

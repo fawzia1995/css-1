@@ -1,0 +1,21 @@
+p,span{
+    background: red;
+    text-align: right
+    ;
+}
+h2{
+    width: 500px;
+    background: red;
+    text-align: center;
+    text-transform: uppercase;
+    ;
+}
+.ja{
+    display:block;
+    text-align:right;
+    text-transform: lowercase;
+}
+.cm{
+    direction:ltr ;
+    text-transform: capitalize;
+}
